@@ -6,7 +6,7 @@
 ### Installation
 BitCoinPrediction requires [Python 3.6](https://www.python.org/downloads/release/python-360/).
 Install dependencies thanks to setup.py
-```python
+```
 $ python setup.py
 ```
 
