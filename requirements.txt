@@ -13,7 +13,7 @@ entrypoints==0.2.3
 gevent==1.2.2
 greenlet==0.4.13
 grequests==0.3.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.6
 inflection==0.3.1
 ipykernel==4.8.0
@@ -102,7 +102,7 @@ Flask-Compress==1.4.0
 gevent==1.2.2
 greenlet==0.4.13
 grequests==0.3.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.6
 inflection==0.3.1
 ipykernel==4.8.0
